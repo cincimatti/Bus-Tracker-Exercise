@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  #map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .map-overlay {
+    position: absolute;
+    left: 0;
+    padding: 10px;
+  }
+  
+  .button1 {
+    background-color:#a31f34;
+    opacity: 0.8;
+    font-size: 1em;
+    padding: 4px 15px;
+    color:white;
+    border: 1px solid white;
+    transition: all 0.3s ease 0s;
+  }
+  
+  button:hover {
+    background-color:white;
+    color: #a31f34;
+  }
+  
