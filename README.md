@@ -1,6 +1,6 @@
 #Bus Tracker Exercise ReadMe
 ## Geospatial mapping of bus transit
-<img src= "Map.png" width='100'>
+<img src= "Map.png" width='150'>
 
 TITLE:
 Bus Tracker Application
