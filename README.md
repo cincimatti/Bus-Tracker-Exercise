@@ -12,4 +12,4 @@ There are two buttons located at the top left side of the screen for user contro
 The button labeled "Show Stops between MIT and Harvard" will show markers assigned to MBTA bus stops with specific Lat/Long coordinates.
 To replay the markers the user may select the "Reset" button to startover.
 
-LICENSE INFORMATION: Licensing information can be found in the PacMen repo locate the "LICENSE" file.
+LICENSE INFORMATION: Licensing information can be found in the Bus-Tracker-Exercise repo locate the "LICENSE" file.
