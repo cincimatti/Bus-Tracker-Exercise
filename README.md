@@ -6,6 +6,14 @@ Bus Tracker Application
 DESCRIPTION:
 This application shows bus stops from MBTA (Massachusetts Bay Transportation Authority) between MIT and Harvard.
 
+HOW TO RUN:
+The software is hosted on github. It can be reached at https://cincimatti.github.io/Bus-Tracker-Exercise/.
+Load the URL into a browser to get started.
+
+ROADMAP:
+1.) ROADMAPPED FEATURES: Additional user selectable bus routes 
+2.) ROADMAPPED FEATURES: Time of Day for each Stop
+
 OPERATING INSTRUCTIONS:
 The web URL will open a map using the Mapbox API with a view assigned to Cambridgeport in MA. 
 There are two buttons located at the top left side of the screen for user controls.
