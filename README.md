@@ -1,4 +1,6 @@
-# ReadMe File
+#Bus Tracker Exercise ReadMe
+## Geospatial mapping of bus transit
+<img src= "map.png" width='100'>
 
 TITLE:
 Bus Tracker Application
